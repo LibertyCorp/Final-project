@@ -16,6 +16,7 @@ This was my first arduino project. I was new to C/C++ when writing this, I was i
 
 ![IMG_2063](https://github.com/user-attachments/assets/505e2911-487e-4711-b77c-97c76ba097ab)
 
-![IMG_2063](https://github.com/user-attachments/assets/5b1dc9db-e8fc-4f7f-8a74-f8216e90a965)
+![IMG_2061](https://github.com/user-attachments/assets/4dacc8d3-ab3a-4229-b605-e09d52d62a90)
+
 
 ![IMG_2079](https://github.com/user-attachments/assets/18926289-56e9-413f-abc2-757c6ea00688)
