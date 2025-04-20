@@ -12,3 +12,8 @@ I used an arduino microcontroller to create closed loop positional control for t
 This was my first arduino project. I was new to C/C++ when writing this, I was implementing the code as I learned it, so it has a lot of room for imporvement.
 
 
+![IMG_2079](https://github.com/user-attachments/assets/18926289-56e9-413f-abc2-757c6ea00688)
+
+![IMG_2063](https://github.com/user-attachments/assets/505e2911-487e-4711-b77c-97c76ba097ab)
+
+
