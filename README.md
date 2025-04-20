@@ -13,12 +13,15 @@ This was my first arduino project. I was new to C/C++ when writing this, I was i
 
 
 
-
+Side view
 ![IMG_2063](https://github.com/user-attachments/assets/505e2911-487e-4711-b77c-97c76ba097ab)
 
+
+Overhead
 ![IMG_2061](https://github.com/user-attachments/assets/4dacc8d3-ab3a-4229-b605-e09d52d62a90)
 
 
+Close up of motor driver, bottom limit switch, DC motors and multiplexer
 ![IMG_2079](https://github.com/user-attachments/assets/18926289-56e9-413f-abc2-757c6ea00688)
 
 
