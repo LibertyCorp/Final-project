@@ -20,3 +20,7 @@ This was my first arduino project. I was new to C/C++ when writing this, I was i
 
 
 ![IMG_2079](https://github.com/user-attachments/assets/18926289-56e9-413f-abc2-757c6ea00688)
+
+
+Horizontal limit switch and encoder
+![IMG_2080](https://github.com/user-attachments/assets/81ed4f14-afa5-4e7a-b173-4bc831b11dfb)
