@@ -27,3 +27,7 @@ Close up of motor driver, bottom limit switch, DC motors and multiplexer
 
 Horizontal limit switch and encoder
 ![IMG_2080](https://github.com/user-attachments/assets/81ed4f14-afa5-4e7a-b173-4bc831b11dfb)
+
+Circuit diagram(created in mspaint)
+<img width="1613" alt="circuit diagram" src="https://github.com/user-attachments/assets/a39467da-f0ac-42ca-b6c9-4929e20eb004" />
+
